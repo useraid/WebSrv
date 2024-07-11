@@ -48,4 +48,6 @@ websrv.exe
 ./websrv help
 ```
 - Add Custom arguments by modifying `argc` inputs
-  
+
+## Precompiled Binaries - Standalone mode
+[Linux](https://github.com/useraid/WebSrv/releases/tag/v0.1)
