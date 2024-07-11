@@ -1,6 +1,8 @@
 # WebSrv
 A simple HTTP server library written in C++
 
+![Linux](https://github.com/useraid/WebSrv/actions/workflows/CMakeBuildTest.yml/badge.svg)
+
 ## Features
 - Concurrency - Handle mutiple connections at once
 - Logging - Console and File based Detailed Logging
