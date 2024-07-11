@@ -6,6 +6,7 @@ A simple HTTP server library written in C++
 - Logging - Console and File based Detailed Logging
 - Standalone Mode - Compile and Run the binary as is to use as a simple HTTP server
 - Lightweight - Low resource usage
+- Platform Independent - Works on Windows and Linux
 
 ## Quick Start
 ### Using as library
@@ -48,6 +49,21 @@ websrv.exe
 ./websrv help
 ```
 - Add Custom arguments by modifying `argc` inputs
+
+## How to Build
+### Dependencies
+- CMake
+- G++/GCC
+### Building using CMake toolchain
+- For Linux, run the build/build.sh bash script
+```
+chmod +x build.sh
+./build.sh
+```
+-  For Windows, run the build/build.bat batch file
+```
+build.bat
+```
 
 ## Precompiled Binaries - Standalone mode
 [Linux](https://github.com/useraid/WebSrv/releases/tag/v0.1)
