@@ -4,7 +4,7 @@ A simple HTTP server library written in C++
 ## Features
 - Concurrency - Handle mutiple connections at once
 - Logging - Console and File based Detailed Logging
-- Standalone Mode - Run the `web` as is to use as a simple HTTP server
+- Standalone Mode - Compile and Run the binary as is to use as a simple HTTP server
 - Lightweight - Low resource usage
 
 ## Quick Start
