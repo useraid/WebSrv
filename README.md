@@ -67,3 +67,4 @@ build.bat
 
 ## Precompiled Binaries - Standalone mode
 [Linux](https://github.com/useraid/WebSrv/releases/tag/v0.1)
+WIP - Bug Squashing in progress for Windows Implementation
